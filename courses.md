@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Currently, I teach econometrics and an introductory course in public economics at Dartmouth.
+Currently, I teach courses in econometrics and public economics at Dartmouth. 
 
 ***
 
