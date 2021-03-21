@@ -4,7 +4,7 @@ layout: default
 
 I am an assistant professor of economics at Dartmouth College. My research interests are inequality, public economics, and labor economics. 
 
-<p>You can view my CV [here](files/mello_cv.pdf).</p>
+<p>You can view my CV [here](files/jmp.pdf).</p>
 
 ***
 
