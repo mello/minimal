@@ -6,8 +6,8 @@ Currently, I teach introductory courses in econometrics and public economics at 
 
 ***
 
-### ECON28: Public Finance and Public Policy
-<br>[Syllabus](econ28/syllabus.pdf)
+<b>ECON 28: Public Finance and Public Policy</b>
+<br>[Syllabus](econ28/syllabus.pdf) (Fall 2020)
 
 ***
 
