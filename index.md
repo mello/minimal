@@ -2,7 +2,9 @@
 layout: default
 ---
 
-I am an assistant professor of economics at Dartmouth College. 
+I am an assistant professor of economics at Dartmouth College. My research interests are inequality, public economics, and labor economics. 
+
+<p>You can view my CV [here](files/mello_cv.pdf).</p>
 
 ***
 
@@ -10,7 +12,7 @@ I am an assistant professor of economics at Dartmouth College.
 
 <b>[Fines and financial wellbeing](files/fines.pdf)</b>
 <br>_Under review_
-<br>[JMP Version](files/jmp.pdf)
+<br>[Old version](files/jmp.pdf)
 
 <b>[Does the punishment fit the crime? Speeding fines and driver behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3064406)</b>
 <br>with Felipe Goncalves
