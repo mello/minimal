@@ -28,4 +28,4 @@ layout: default
 <b>Socioeconomic consequences of driver license suspensions</b>
 
 <b>Police Training and Racial Bias</b>
-<br>with Matthew Ross and Steve Ross
+<br>with Matthew Ross and Stephen Ross
