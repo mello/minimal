@@ -2,31 +2,122 @@
 layout: default
 ---
 
-## Working Papers
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-<b>[Fines and financial wellbeing](files/fines.pdf)</b>
-<br>_Under review_
-<br>[Older Version](files/jmp.pdf)
+[Link to another page](./another-page.html).
 
-<b>[Does the punishment fit the crime? Speeding fines and driver behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3064406)</b>
-<br>with Felipe Goncalves
-<br>_Update coming soon_
+There should be whitespace between paragraphs.
 
-## Published (and Forthcoming) Papers ##
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-<b>[A few bad apples? Racial bias in policing](https://www.aeaweb.org/articles?id=10.1257/aer.20181607)</b>
-<br>with Felipe Goncalves
-<br>_American Economic Review_, forthcoming, May 2021.
-<br>[Pre-publication version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3627809) | [Replication Package](https://www.openicpsr.org/openicpsr/project/120242/version/V1/view)
+# Header 1
 
-<b>[More COPS, Less Crime](https://www.sciencedirect.com/science/article/pii/S0047272718302305)</b>
-<br>_Journal of Public Economics_ 172: 174-200, April 2019. 
-<br>[Pre-publication version](files/cops.pdf) | [Replication Package](https://github.com/mello/cops)
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Work in Progress ##
+## Header 2
 
-<b>Socioeconomic consequences of driver license suspensions</b>
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
-<b>Police Training and Racial Bias</b>
-<br>with Matthew Ross and Steve Ross
+### Header 3
 
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+The final element.
+```
