@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Working Papers
+### Working Papers
 
 <b>[Fines and financial wellbeing](files/fines.pdf)</b>
 <br>_Under review_
@@ -25,7 +25,9 @@ layout: default
 <br>_Journal of Public Economics_ 172: 174-200, April 2019. 
 <br>[Pre-publication version](files/cops.pdf) | [Replication Package](https://github.com/mello/cops)
 
-## Work in Progress ##
+***
+
+### Work in Progress ###
 
 <b>Socioeconomic consequences of driver license suspensions</b>
 
