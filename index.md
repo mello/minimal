@@ -19,7 +19,7 @@ layout: default
 <br>_American Economic Review_, forthcoming, May 2021.
 <br>[Pre-publication version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3627809) | [Replication Package](https://www.openicpsr.org/openicpsr/project/120242/version/V1/view)
 
-<b>[More COPS, Less Crime](https://www.sciencedirect.com/science/article/pii/S0047272718302305)</b>
+<b>[More COPS, less crime](https://www.sciencedirect.com/science/article/pii/S0047272718302305)</b>
 <br>_Journal of Public Economics_ 172: 174-200, April 2019. 
 <br>[Pre-publication version](files/cops.pdf) | [Replication Package](https://github.com/mello/cops)
 
