@@ -2,6 +2,10 @@
 layout: default
 ---
 
+Currently, I teach econometrics and an introductory course in public economics at Dartmouth.
+
+***
+
 ### ECON28: Public Finance and Public Policy
 <br>[Syllabus](econ28/syllabus.pdf)
 
