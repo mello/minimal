@@ -6,7 +6,7 @@ layout: default
 
 <b>[Fines and financial wellbeing](files/fines.pdf)</b>
 <br>_Under review_
-<br>[Older Version](files/jmp.pdf)
+<br>[JMP Version](files/jmp.pdf)
 
 <b>[Does the punishment fit the crime? Speeding fines and driver behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3064406)</b>
 <br>with Felipe Goncalves
