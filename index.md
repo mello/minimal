@@ -2,6 +2,10 @@
 layout: default
 ---
 
+I am an assistant professor of economics at Dartmouth College. 
+
+***
+
 ### Working Papers
 
 <b>[Fines and financial wellbeing](files/fines.pdf)</b>
