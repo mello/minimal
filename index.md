@@ -12,7 +12,7 @@ layout: default
 <br>with Felipe Goncalves
 <br>_Update coming soon_
 
-## Published (and Forthcoming) Papers ##
+## Published Papers ##
 
 <b>[A few bad apples? Racial bias in policing](https://www.aeaweb.org/articles?id=10.1257/aer.20181607)</b>
 <br>with Felipe Goncalves
