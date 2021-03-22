@@ -12,5 +12,5 @@ Currently, I teach introductory courses in econometrics and public economics at 
 ***
 
 <b>ECON 20: Econometrics</b>
-<br>[Syllabus](econ28/syllabus.pdf) (Spring 2021)
+<br>[Syllabus](econ20/syllabus.pdf) (Spring 2021)
 
