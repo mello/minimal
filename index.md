@@ -22,7 +22,7 @@ I am an assistant professor of economics at Dartmouth College. My research inter
 
 <b>[A few bad apples? Racial bias in policing](https://www.aeaweb.org/articles?id=10.1257/aer.20181607)</b>
 <br>with Felipe Goncalves
-<br>_American Economic Review_, forthcoming, May 2021.
+<br>_American Economic Review_ 111(5): 1406-41, May 2021.
 <br>[Pre-publication version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3627809) | [Replication Package](https://www.openicpsr.org/openicpsr/project/120242/version/V1/view)
 
 <b>[More COPS, less crime](https://www.sciencedirect.com/science/article/pii/S0047272718302305)</b>
