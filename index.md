@@ -9,7 +9,7 @@ I am an assistant professor of economics at Dartmouth College. My research inter
 ### Working Papers
 
 <b>[Fines and financial wellbeing](files/fines.pdf)</b>
-<br>_Under review_
+<br>_Update coming soon_
 <br>[Old version](files/jmp.pdf)
 
 <b>[Does the punishment fit the crime? Speeding fines and driver behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3064406)</b>
